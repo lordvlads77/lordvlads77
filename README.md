@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eva Luna Álvarez C.
 - 👀 I’m interested in : Skyrim, AI, Huawei, Videogames, PS5
-- 🌱 I’m currently learning: C++ , C, Javascript
+- 🌱 I’m currently learning: C++ , C, Javascript, Unity Engine
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : LordHades-sama#9507 on Discord or @ICeasarus on Twitter
 
