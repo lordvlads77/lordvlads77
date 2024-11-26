@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: C++ , Creation Kit, Javascript, React, Fishnet Plugin. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : LordHades-sama#9507 on Discord or zap363@amerike.edu.mx by mail =D
-- Proficient in: HTML, CSS, Unity, C#, Networking, Dart, Flutter, Figma
+- Proficient in: HTML, CSS, Unity, C#, Networking, Dart, Flutter, Figma, Unreal Engine Materials
 
 <!---
 lordvlads77/lordvlads77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
